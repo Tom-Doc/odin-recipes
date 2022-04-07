@@ -1,0 +1,32 @@
+#page {
+    background-color: rgb(197, 186, 186);
+    color: rgb(36, 34, 34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12;
+}
+
+#ingredients-header {
+text-decoration: underline wavy
+}
+
+#steps-header {
+    text-decoration: underline wavy;
+}
+
+#meal-description {
+    width: 500px;
+}
+
+.homepage-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: rgb(99, 97, 224);
+}
+
+.ingredients-list {
+    border: 1px solid black;
+}
+
+.steps-list {
+    border: 1px solid black;
+}
